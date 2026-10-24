@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+datasets/
+data/raw/
+data/processed/
+
+# Trained models
+models/
+*.h5
+*.keras
+*.weights.h5
+
+# Logs and TensorBoard
+logs/
+tensorboard_logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
