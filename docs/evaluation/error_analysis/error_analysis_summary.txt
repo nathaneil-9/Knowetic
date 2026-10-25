@@ -1,0 +1,12 @@
+Knowetic - Model Error Analysis
+========================================
+
+Total test images: 2680
+False positives: 143
+False negatives: 545
+False positive rate: 0.1055
+False negative rate: 0.4116
+
+Representative error images were saved in:
+- docs/evaluation/error_analysis/false_positives
+- docs/evaluation/error_analysis/false_negatives
